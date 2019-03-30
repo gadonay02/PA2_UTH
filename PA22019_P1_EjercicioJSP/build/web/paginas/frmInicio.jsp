@@ -9,6 +9,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<<<<<<< HEAD
         <title>Avanzada 2</title>
     </head>
     <body>
@@ -19,6 +20,15 @@
             <br><br>
             Universidad:
             <input type="text" name="universidad">
+=======
+        <title>uth</title>
+    </head>
+    <body>
+        <h1>Bienvenido a juego de matematicas!</h1>
+        <form action="../servletInicioControlador" method="post">
+            Usuario:
+            <input type="text" name="usuario">
+>>>>>>> master
             <br>
             <input type="submit" value="ingresar">
         </form>
